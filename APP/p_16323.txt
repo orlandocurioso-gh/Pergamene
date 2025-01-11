@@ -1,0 +1,10 @@
+%!
+(^)SETDBSEP
+(diplo01v7.dbm) STARTDBM
+MATRI^NOM_COG^DATANAS^SESSO^LUOGONAS^PROVNAS^STATNAS^CORSOLAU^CLASSE^INDICORSO^LINGUA^LODE^RETTORE^FIRMAR^PRESIDE^FIRMAP^DIRETTORE^FIRMAD^PROTOCOL^DATALAUR^DATASTAMP^NPERGAMENA^MODULO
+2026562^Ettore Cantile^09 luglio 2002^nato a^Latina^^^Ingegneria dell'Informazione^Classe L-8 Ingegneria dell'Informazione^^^^Antonella Polimeni^apolimeni^Marco Schaerf^mschaerf^Loredana Segreto^lsegreto^16323/1^18 dicembre 2024^23 dicembre 2024^616168^forml27v7
+2016363^Leonardo Chiarparin^28 maggio 2002^nato a^Latina^^^Ingegneria dell'Informazione^Classe L-8 Ingegneria dell'Informazione^^^con Lode^Antonella Polimeni^apolimeni^Marco Schaerf^mschaerf^Loredana Segreto^lsegreto^16323/2^18 dicembre 2024^23 dicembre 2024^616169^forml27v7
+1841238^Luca Damiani Chersoni^11 marzo 2000^nato a^Latina^^^Ingegneria dell'Informazione^Classe L-8 Ingegneria dell'Informazione^^^^Antonella Polimeni^apolimeni^Marco Schaerf^mschaerf^Loredana Segreto^lsegreto^16323/3^18 dicembre 2024^23 dicembre 2024^616170^forml27v7
+1845668^Giulia Dura^01 novembre 1999^nata a^Latina^^^Ingegneria dell'Informazione^Classe L-8 Ingegneria dell'Informazione^^^^Antonella Polimeni^apolimeni^Marco Schaerf^mschaerf^Loredana Segreto^lsegreto^16323/4^18 dicembre 2024^23 dicembre 2024^616171^forml27v7
+1668853^Pasquale Palombo^11 agosto 1991^nato a^Latina^^^Ingegneria dell'Informazione^Classe L-8 Ingegneria dell'Informazione^^^^Antonella Polimeni^apolimeni^Marco Schaerf^mschaerf^Loredana Segreto^lsegreto^16323/5^18 dicembre 2024^23 dicembre 2024^616172^forml27v7
+1787633^Aurora Picano^09 agosto 1999^nata a^Cava de' Tirreni^(Salerno)^^Ingegneria dell'Informazione^Classe L-8 Ingegneria dell'Informazione^^^^Antonella Polimeni^apolimeni^Marco Schaerf^mschaerf^Loredana Segreto^lsegreto^16323/6^18 dicembre 2024^23 dicembre 2024^616173^forml27v7

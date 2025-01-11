@@ -1,0 +1,5 @@
+%!
+(^)SETDBSEP
+(diplo02v7.dbm) STARTDBM
+MATRI^NOM_COG^DATANAS^SESSO^LUOGONAS^PROVNAS^STATNAS^CORSOLAU^CLASSE^INDICORSO^LINGUA^LODE^RETTORE^FIRMAR^PRESIDE^FIRMAP^DIRETTORE^FIRMAD^PROTOCOL^DATALAUR^DATASTAMP^NPERGAMENA^MODULO
+1740774^Gabriele Riccardo Lupica^06 agosto 1997^nato a^Sant' Agata di Militello^(Messina)^^Medicina e Chirurgia^Classe LM-41 Medicina e Chirurgia^^^con Lode^Antonella Polimeni^apolimeni^Domenico Alvaro^dalvaro^Loredana Segreto^lsegreto^16319/1^28 novembre 2024^18 dicembre 2024^651643^forml29v7
