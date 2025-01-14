@@ -1,5 +1,6 @@
-Elenco diplomi stampati il 11/01/2025
+Elenco diplomi stampati il 14/01/2025
 
-445307 Cecilia Crestini                      Giurisprudenza
+1987123 Francesco D'Aponte                      INGEGNERIA CHIMICA
+1996648 Riccardo Piacenza                      INGEGNERIA CHIMICA
 
-Totale: 1
+Totale: 2

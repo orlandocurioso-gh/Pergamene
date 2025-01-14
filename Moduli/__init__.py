@@ -7,3 +7,4 @@ from .pulizie import controlloClasseLaurea
 from .stampaFile import stampaFileRegistro
 from .scomponiLista import scomponi
 from .pergamena import pergamena
+from .proceduraCamicie import creaCamicia

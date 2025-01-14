@@ -6,7 +6,7 @@ class pergamena:
         self.dataNascita=lista[2]
         self.luogoNascita=lista[3]
         self.provincia=lista[4]
-        self.facolta=lista[5]
+        self.facolta=lista[5].upper()
         self.abilitazione=lista[6]
         self.classeLaurea=lista[7]
         self.lode=lista[8]

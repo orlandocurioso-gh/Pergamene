@@ -21,16 +21,16 @@ def controlloProvincia(lista):
     return lista
 
 def controlloAbilitazione(lista):
-    if 'Abilitante' not in lista:
+    if 'Abilitante' not in lista[6]:
         lista.insert(6,'')
     return lista
 
 def controlloClasseLaurea(lista):
-    if 'Classe' not in lista:
+    if 'Classe' not in lista[7]:
         lista.insert(7,'')
     return lista
 
 def controlloLode(lista):
-    if 'Lode' not in lista:
+    if 'Lode' not in lista[8]:
         lista.insert(8,'')
     return lista

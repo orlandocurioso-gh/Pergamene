@@ -1,0 +1,6 @@
+%!
+(^)SETDBSEP
+(diplo01v7.dbm) STARTDBM
+MATRI^NOM_COG^DATANAS^SESSO^LUOGONAS^PROVNAS^STATNAS^CORSOLAU^CLASSE^INDICORSO^LINGUA^LODE^RETTORE^FIRMAR^PRESIDE^FIRMAP^DIRETTORE^FIRMAD^PROTOCOL^DATALAUR^DATASTAMP^NPERGAMENA^MODULO
+1987123^Francesco D'Aponte^03 febbraio 2003^nato a^Napoli^^^Ingegneria Chimica^Classe L-9 Ingegneria Industriale^^^con Lode^Antonella Polimeni^apolimeni^Carlo Massimo Casciola^cmcasciola^Loredana Segreto^lsegreto^16320/1^16 dicembre 2024^19 dicembre 2024^616154^forml27v7
+1996648^Riccardo Piacenza^10 maggio 2002^nato a^Roma^^^Ingegneria Chimica^Classe L-9 Ingegneria Industriale^^^con Lode^Antonella Polimeni^apolimeni^Carlo Massimo Casciola^cmcasciola^Loredana Segreto^lsegreto^16320/2^16 dicembre 2024^19 dicembre 2024^616155^forml27v7

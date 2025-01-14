@@ -4,7 +4,6 @@ import datetime
 import win32api
 
 #routine spostamento file stampati e cancellazione directory
-#problema mancanza classe di laurea vedi p_16321
 
 oggi=datetime.date.today()
 anno=str(oggi).split('-')[0]
@@ -35,6 +34,7 @@ for elemento in files:
             listaFinale.pop(len(listaFinale)-1)
             stringaPergamena=','.join(listaFinale)
             fInDesign.write(stringaPergamena)
+            Moduli.creaCamicia(pergamenaOggetto)
 fLista.write('\nTotale: '+str(len(listaPulita)))
 fInDesign.close()
 fLista.close()

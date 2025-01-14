@@ -1,5 +1,0 @@
-%!
-(^)SETDBSEP
-(diplo02_vov7.dbm) STARTDBM
-MATRI^NOM_COG^DATANAS^SESSO^LUOGONAS^PROVNAS^STATNAS^CORSOLAU^CLASSE^INDICORSO^LINGUA^LODE^RETTORE^FIRMAR^PRESIDE^FIRMAP^DIRETTORE^FIRMAD^PROTOCOL^DATALAUR^DATASTAMP^NPERGAMENA^MODULO
-445307^Cecilia Crestini^11 gennaio 1974^nata a^Arezzo^^^Giurisprudenza^^^^^Antonella Polimeni^apolimeni^Oliviero Diliberto^odiliberto^Loredana Segreto^lsegreto^16321/1^26 aprile 2001^20 dicembre 2024^651644^forml04v7
